@@ -1,6 +1,6 @@
 [Params]
   # Note: This is for the meta description, which is different from the "description" displayed in the terminal.'
-  title = "anggoro-shell";
+  title = "anggoro-shell"
   description = "Jane Doe's Portfolio!"
   [Params.Terminal]
   # Note: color scheme
